@@ -1,0 +1,10 @@
+# macOS file
+.DS_Store
+
+# Assignments
+assign01/
+
+# any idea file
+.idea
+# any ref files
+/ref
